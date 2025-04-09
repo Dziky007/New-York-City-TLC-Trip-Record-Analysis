@@ -1,8 +1,8 @@
 # New-York-City-TLC-Trip-Record-Analysis
 Created by: Dziky Ghifari Dimyati JCDS 0608 BDG
 
-Dashboard : https://public.tableau.com/app/profile/dziky.ghifari.dimyati/viz/DasboardTaxiNYC/Dashboard1
-Link: https://www.canva.com/design/DAGkKJt2SEs/yElpn_7QWCAmIRTpDCTVZA/edit?utm_content=DAGkKJt2SEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Dashboard : https://public.tableau.com/app/profile/dziky.ghifari.dimyati/viz/DasboardTaxiNYC/Dashboard1
+- Link: https://www.canva.com/design/DAGkKJt2SEs/yElpn_7QWCAmIRTpDCTVZA/edit?utm_content=DAGkKJt2SEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## LATAR BELAKANG
 Transportasi merupakan salah satu aspek krusial dalam kehidupan kota besar seperti New York City. Setiap harinya, jutaan orang menggunakan berbagai moda transportasi, termasuk layanan taksi. Untuk mendukung transparansi dan perencanaan kota, New York City Taxi and Limousine Commission (TLC) menyediakan data perjalanan taksi dalam bentuk dataset publik, salah satunya adalah NYC TLC Trip Record.
